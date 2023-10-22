@@ -6,6 +6,7 @@ dataset = []
 for item in dataset_str.split(','):
     dataset.append(int(item))
 
+# Enter the values of m1 and m2
 m1 = int(input("Enter the initial m1: "))
 m2 = int(input("Enter the initial m2: "))
 
