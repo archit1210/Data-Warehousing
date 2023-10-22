@@ -1,4 +1,4 @@
-age = ['youth','youth','youth','middle','senior','senior','middle','youth','middle','senoir']
+age = ['youth','youth','youth','middle','senior','senior','middle','youth','middle','senior']
 income = ['low','high','high','medium','low','low','high','medium','low','medium']
 student = ['no','yes','no','yes','yes','yes','yes','no','no','yes']
 credit_rating = ['fair','excellent','fair','fair','fair','excellent','excellent','fair','excellent','fair']
