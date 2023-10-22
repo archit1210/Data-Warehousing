@@ -4,7 +4,6 @@ m2 = int(input("Enter the m2 : "))
 
 avg1 = 0
 avg2 = 0
-
 p1 = 0
 p2 = 0
 
