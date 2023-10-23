@@ -13,6 +13,7 @@ model = AgglomerativeClustering(n_clusters=5, affinity='euclidean', linkage='com
 model.fit(X)
 labels = model.labels_
 
+
 # Create a dendrogram
 plt.figure(figsize=(12, 6))
 dendrogram = sch.dendrogram(sch.linkage(X, method='complete'))
